@@ -1,3 +1,7 @@
+# Sample Build Status Markdown
+
+[![Build Status](https://dev.azure.com/ronlimms/TestRonProject/_apis/build/status%2Fronslim.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/ronlimms/TestRonProject/_build/latest?definitionId=1&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
